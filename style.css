@@ -1,0 +1,10 @@
+div{
+    display: flex;
+    flex-wrap: wrap;
+    width: 60%;
+    height: 100vh;
+    border: 3px solid gray;
+    justify-content: space-around;
+    align-content: space-around;
+   
+}
